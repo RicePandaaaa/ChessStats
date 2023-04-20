@@ -1,5 +1,5 @@
 # What is this?
-It is simply a collection of various programs that display random statistics using lichess' public game database
+It is simply a collection of various programs that display random statistics using lichess' public game database. This code was originally made in 2020 as my first venture into data visualization, but hopefully I can update this to better represent my skills in data pre-processing and visualization.
 
 ### Databases Used and Output
 You can find the databases that were used at https://database.lichess.org/. The programs will be using the large database. The large database has 1.2 million games stored and is listed under November 2014. 
